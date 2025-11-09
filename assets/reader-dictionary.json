@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "lastUpdate": "2024-11-09T10:00:00Z",
+  "tipos": {
+    "PU": "Puerta",
+    "ES": "Estacionamiento",
+    "EX": "Expreso",
+    "TO": "Torniquete",
+    "AC": "Control de Acceso"
+  },
+  "ubicaciones": {
+    "ED": "Edificio Principal",
+    "E1": "Edificio 1",
+    "E2": "Edificio 2",
+    "E3": "Edificio 3",
+    "E4": "Edificio 4",
+    "E5": "Edificio 5",
+    "BI": "Biblioteca",
+    "CA": "Cafetería",
+    "LA": "Laboratorio",
+    "GI": "Gimnasio",
+    "AD": "Administrativo",
+    "AU": "Auditorio",
+    "CO": "Coliseo",
+    "PA": "Parqueadero",
+    "RE": "Rectoría",
+    "PI": "Piscina",
+    "DP": "Deportivo",
+    "ME": "Medicina",
+    "IN": "Ingeniería",
+    "AR": "Arquitectura",
+    "DR": "Derecho",
+    "EC": "Economía",
+    "CI": "Ciencias",
+    "HU": "Humanidades"
+  },
+  "sentidos": {
+    "EN": "Entrada",
+    "SA": "Salida",
+    "NA": "",
+    "BI": "Bidireccional"
+  }
+}
